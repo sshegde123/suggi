@@ -1,0 +1,2 @@
+# suggi
+Suggi Magento project
